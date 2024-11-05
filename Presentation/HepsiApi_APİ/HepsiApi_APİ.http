@@ -1,0 +1,6 @@
+@HepsiApi_APİ_HostAddress = http://localhost:5146
+
+GET {{HepsiApi_APİ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
