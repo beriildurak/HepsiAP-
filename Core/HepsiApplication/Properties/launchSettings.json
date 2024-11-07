@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "HepsiApplication": {
+      "commandName": "Project"
+    },
+    "HepsiApi.Development": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\beril\\Desktop\\HepsiAPİ\\Presentation\\HepsiApi_APİ\\appsettings.Development.json"
+    },
+    "HepsiApi.Production": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\beril\\Desktop\\HepsiAPİ\\Presentation\\HepsiApi_APİ\\appsettings.Production.json"
+    }
+  }
+}
